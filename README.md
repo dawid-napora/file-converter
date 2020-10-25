@@ -1,4 +1,4 @@
-# image-converter
+# file-converter
 
 ## Project setup
 ```
